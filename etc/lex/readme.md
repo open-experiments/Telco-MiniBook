@@ -1,7 +1,7 @@
-# The AI Hardware Race: From DeepSeek to Mega Clusters
+# The AI Productification Race: From DeepSeek to Mega AI Clusters of Ego-centric Leaders
 ### A Technical Deep Dive Based on Lex Fridman's Interview with Dylan Patel and Nathan Lambert
 
-This repository contains chapter-by-chapter analysis and technical deep dives based on the [Lex Fridman podcast episode](https://www.youtube.com/watch?v=_1f-o0nqpEI) featuring Dylan Patel (SemiAnalysis) and Nathan Lambert (Allen Institute for AI).
+This repository contains personal analysis and technical notes collected based on the [Lex Fridman podcast episode](https://www.youtube.com/watch?v=_1f-o0nqpEI) featuring Dylan Patel (SemiAnalysis) and Nathan Lambert (Allen Institute for AI).
 
 ## Chapters
 
