@@ -1,7 +1,7 @@
 # The Hitchhiker's Guide to the AI-Native Telco Galaxy
 
 <div align="center">
-    <img src="https://github.com/tme-osx/TME-MiniBook/blob/main/images/421.png" width="321"/>
+    <img src="https://github.com/tme-osx/TME-MiniBook/blob/main/images/421.png" width="240"/>
 </div>
 
 # 🛸 The Hitchhiker's Guide to the AI-Native Telco Galaxy
